@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69693514155",
+    "project_id": "fir-test-ede20",
+    "storage_bucket": "fir-test-ede20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69693514155:android:58eb417aa619e3ea18f2ee",
+        "android_client_info": {
+          "package_name": "com.example.firebase_hw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVUJ5sj9j_wDRUhqnvxEzrcwj6QQZxnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
